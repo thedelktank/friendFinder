@@ -1,0 +1,22 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "friends.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedelktank/friendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thedelktank/friendFinder/issues"
+  },
+  "homepage": "https://github.com/thedelktank/friendFinder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
